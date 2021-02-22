@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi, I'm Phene
 
 # About me:
-uhhhhhhhhhhhhhhhhhhhhhhh writing this part soon:tm:
 
-# How to reach me:
-You can contact me at [phene@ctaetcsh.xyz](mailto:phene@ctaetcsh.xyz)
 
+# Contact Me
+If you need to reach me for whatever reason, please [email me](mailto:phene@ctaetcsh.xyz). Or you can [contact me on Discord, if that's your thing](https://discord.com/users/347791894115385355).
 <!--
 **joebobbio/joebobbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
