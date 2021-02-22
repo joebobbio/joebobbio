@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/joebobbio/joebobbio/blob/main/THEMAN.jpg?raw=true"></img>
+<img align="right" src="https://github.com/joebobbio/joebobbio/blob/main/THEMAN.jpg?raw=true" width="350"></img>
 # Hi, I'm Phene
 
 I like 
