@@ -1,9 +1,10 @@
-### Hi, I'm Phene
+<img align="right" src="https://github.com/joebobbio/joebobbio/blob/main/THEMAN.jpg?raw=true"></img>
+# Hi, I'm Phene
 
-# About me:
+I like 
 
 
-# Contact Me
+## Contact Me
 If you need to reach me for whatever reason, please [email me](mailto:phene@ctaetcsh.xyz). Or you can [contact me on Discord, if that's your thing](https://discord.com/users/347791894115385355).
 <!--
 **joebobbio/joebobbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
