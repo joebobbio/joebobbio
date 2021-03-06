@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/joebobbio/joebobbio/blob/main/THEMAN.jpg?raw=true" alt="THE MAN" width="350"></img>
 # Hi, I'm Phene
 
-I like cats, programming, and messing with electronics. I really really really want to learn Flutter as I'm very jealous of those with prettier sites than [mine](https://phene.cf). But until I have the free time to do so, I know some NodeJS/Javascript. 
+I like cats, programming, and messing with electronics. I really really really want to learn Flutter as I'm very jealous of those with prettier sites than [mine](https://phene.dev). But until I have the free time to do so, I know some NodeJS/Javascript. 
 
 
 ## Contact Me
