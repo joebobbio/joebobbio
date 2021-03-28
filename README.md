@@ -5,7 +5,7 @@ I like cats, programming, and messing with electronics. I really really really w
 
 
 ## Contact Me
-If you need to reach me for whatever reason, please [email me](mailto:phene@ctaetcsh.xyz). Or you can [contact me on Discord, if that's your thing](https://discord.com/users/347791894115385355).
+If you need to reach me for whatever reason, please [email me](mailto:phene@phene.dev). Or you can [contact me on Discord, if that's your thing](https://discord.com/users/347791894115385355).
 <!--
 **joebobbio/joebobbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
