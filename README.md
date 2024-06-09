@@ -1,11 +1,15 @@
-<img align="right" src="https://github.com/joebobbio/joebobbio/blob/main/PXL_20230126_203231819.jpg?raw=true" alt="THE MAN" width="350"></img>
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
+<!-- <img align="right" src="https://github.com/joebobbio/joebobbio/blob/main/PXL_20230126_203231819.jpg?raw=true" alt="THE MAN" width="350"></img>
 # Hi, I'm Phene
 
 I like cats, programming, and messing with electronics.
 
 
 ## Contact Me
-If you need to reach me for whatever reason, please [email me](mailto:phene@phene.dev). Or you can [contact me on Discord, if that's your thing](https://discord.com/users/347791894115385355).
+If you need to reach me for whatever reason, please [email me](mailto:phene@phene.dev). Or you can [contact me on Discord, if that's your thing](https://discord.com/users/347791894115385355). -->
 <!--
 **joebobbio/joebobbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
